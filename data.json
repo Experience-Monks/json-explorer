@@ -1,0 +1,52 @@
+{
+	"Baconville": {
+		"Side road": {
+			"Wolf's house": {
+				"Armchair": {},
+				"Reading lamp": {}
+			}
+		},
+		"Main street": {
+			"Alice's house": {
+				"walls": {
+					"weaved hay": {}
+				},
+				"bedroom": {
+					"hay bed": {},
+					"wicker nightstand": {
+						"candle": {}
+					},
+					"curtain door": {}
+				},
+				"kitchen": {
+					"water hole": {},
+					"stone slab table": {},
+					"wicker chair": {}
+				}
+			},
+			"Bob's house": {
+				"walls": {
+					"logs" : {}
+				},
+				"bedroom": {
+					"bed": {
+						"planks" : {},
+						"sawdust covers" : {}
+					},
+					"oil lamp": {}
+				}
+			},
+			"Carol's house": {
+				"walls": {
+					"titanium": {}
+				},
+				"bedroom": {
+					"hoverbed" : {}
+				},
+				"kitchen": {
+					"nuclear oven" : {}
+				}
+			}
+		}
+	}
+}

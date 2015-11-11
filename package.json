@@ -1,0 +1,28 @@
+{
+  "name": "json-explorer",
+  "version": "1.0.0",
+  "description": "A module to view json in a variety of useful styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jam3/json-explorer.git"
+  },
+  "keywords": [
+    "json",
+    "server",
+    "beefy"
+  ],
+  "author": "Tomasz Dysinski <oz@bunnybones.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/json-explorer/issues"
+  },
+  "homepage": "https://github.com/Jam3/json-explorer#readme",
+  "dependencies": {
+    "load-json-xhr": "^3.0.3",
+    "urlparam": "^1.0.1"
+  }
+}
